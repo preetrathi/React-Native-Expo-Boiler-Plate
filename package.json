@@ -25,5 +25,24 @@
   "devDependencies": {
     "@babel/core": "^7.9.0"
   },
-  "private": true
+  "private": true,
+  "name": "react-native-boiler-plate",
+  "version": "1.0.0",
+  "description": "Boiler Plate",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/preetrathi/React-Native-Boiler-Plate.git"
+  },
+  "keywords": [
+    "React",
+    "Native",
+    "Boiler",
+    "Plate"
+  ],
+  "author": "Preet Rathi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/preetrathi/React-Native-Boiler-Plate/issues"
+  },
+  "homepage": "https://github.com/preetrathi/React-Native-Boiler-Plate#readme"
 }
